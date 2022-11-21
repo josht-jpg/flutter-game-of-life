@@ -1,4 +1,4 @@
-# gol
+# Conway's Game of Life
 
 A new Flutter project.
 
